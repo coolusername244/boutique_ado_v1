@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'home',
     'products',
     'bag',
+    'checkout',
     # Add facebook(etc) login feature for real project
 ]
 
